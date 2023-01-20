@@ -1,4 +1,4 @@
-package exception;
+package exception.trycatch;
 
 public class ExceptionEx2 {
 
